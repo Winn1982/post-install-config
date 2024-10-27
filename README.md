@@ -55,5 +55,24 @@ I then went into user settings and ensured that Require Registration and Login t
 ![image](https://github.com/user-attachments/assets/75c3e5f9-9cfc-4ea2-9e19-944e3a3044c6)
 ![image](https://github.com/user-attachments/assets/00c2e261-2d76-451e-bcff-f7416f60d72b)
 
-I created a new user named Jane Doe, I gave her Supreme Admin rights, her primary department is SysAdmins, and for her assigned team she will be a part of Online Banking 
+I created a new user named Jane Doe,I gave her Supreme Admin rights,her primary department is SysAdmins, and for her assigned team she will be a part of Online Banking.
+
+![image](https://github.com/user-attachments/assets/92afb186-e002-443e-bf7b-28205a6b87a9)
+![image](https://github.com/user-attachments/assets/54088aa5-b3d2-4571-a010-606f4f11cf4f)
+
+I created another user named John Does,he is in the support department and was given expanded access. 
+
+![image](https://github.com/user-attachments/assets/8b66e2fe-1da3-4140-89d2-259ad0d1a54a)
+![image](https://github.com/user-attachments/assets/c2fd5883-4abd-4407-bbdb-50d0efc81e3c)
+
+I then went to the agent panel, clicked on users, and created a new user named Karen and John.
+
+![image](https://github.com/user-attachments/assets/40321b81-b8ff-4e06-becc-d6ee51724aaa)
+![image](https://github.com/user-attachments/assets/290eb5ef-f6d4-44c5-91c9-24d5ccda33a7)
+![image](https://github.com/user-attachments/assets/688c8049-f44e-451f-a783-1af7ec6904ec)
+
+I configured/created new SLA agreements. Sev-A is the most serious of incidents and has an hour response time. Sev-B is less serious and has a response time of 4 hours. Sev-C is the least critical and has a response time of 8 hours. There is a default SLA with a grace period of 18 hours. 
+
+
+
 
