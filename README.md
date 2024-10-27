@@ -71,7 +71,21 @@ I then went to the agent panel, clicked on users, and created a new user named K
 ![image](https://github.com/user-attachments/assets/290eb5ef-f6d4-44c5-91c9-24d5ccda33a7)
 ![image](https://github.com/user-attachments/assets/688c8049-f44e-451f-a783-1af7ec6904ec)
 
-I configured/created new SLA agreements. Sev-A is the most serious of incidents and has an hour response time. Sev-B is less serious and has a response time of 4 hours. Sev-C is the least critical and has a response time of 8 hours. There is a default SLA with a grace period of 18 hours. 
+I configured/created new SLA agreements. Sev-A is the most serious incident and has an hour-long response time. Sev-B is less serious and has a response time of 4 hours. Sev-C is the least critical and has a response time of 8 hours. There is a default SLA with a grace period of 18 hours. 
+
+![image](https://github.com/user-attachments/assets/8475994f-0e45-48ee-ae27-d096cdb230cc)
+![image](https://github.com/user-attachments/assets/49990b64-5ec7-4bb5-89f5-803b63e534ad)
+![image](https://github.com/user-attachments/assets/38724d94-6b98-4e47-9960-9dea720e53ae)
+![image](https://github.com/user-attachments/assets/884e2819-5c28-4635-96fb-91d86631f578)
+![image](https://github.com/user-attachments/assets/80c48b6f-5533-4c31-b661-04885ccdaf0a)
+
+I configured some help topics when users fill out a ticket they were:
+Business Critical Outage,
+Personal Computer Issues,
+Equipment Request,
+Password Reset,
+Other.
+
 
 
 
